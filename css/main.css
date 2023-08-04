@@ -244,15 +244,13 @@ section .landing-container .text p{
 
  .about .container{
     display: flex;
+    align-items: center;
  }
 
  .about .image img{
     width: 500px;
  }
 
- .about .text{
-    margin-top: 200px;
- }
 
  .text h2{
     font-weight: bolder;
